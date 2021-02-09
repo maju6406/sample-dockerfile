@@ -67,4 +67,3 @@ This will delete the app and destroy any underlying DigitalOcean resources
 #
 #
 #
-#
